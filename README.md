@@ -1,3 +1,4 @@
 #Volume Control
-This repository hal all files of My volume control project
+This repository has all files of My volume control project
+
 
